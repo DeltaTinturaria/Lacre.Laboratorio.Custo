@@ -1,2 +1,2 @@
-#Lacre.Laboratorio.Custo
-Lacre.Laboratorio.Custo
+# CustoLabDelta
+CustoLabDelta
